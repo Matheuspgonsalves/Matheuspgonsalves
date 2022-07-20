@@ -3,7 +3,6 @@
 - 🔭 Não estou trabalhando
 - 🌱 Estudando HTML,CSS e JS
 - 📫 Contato: matheus.gonsalvespereira@gmail.com
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
