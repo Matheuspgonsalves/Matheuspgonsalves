@@ -1,6 +1,6 @@
 ### Olá, eu sou Matheus 👋
 
-- 🔭 Não estou trabalhando
+- 🔭 Aberto para propostas
 - 🌱 Estudando HTML,CSS e JS
 - 📫 Contato: matheus.gonsalvespereira@gmail.com
 
