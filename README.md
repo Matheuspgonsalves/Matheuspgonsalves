@@ -3,6 +3,7 @@
 - 🔭 Aberto para propostas
 - 🌱 Estudando HTML, CSS, JS e seus frameworks
 - 📫 Contato: matheusgonsalvespereira@gmail.com
+
 Sociais: 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/japinha_pvd4/)
