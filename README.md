@@ -1,4 +1,4 @@
-### Olá, eu sou Matheus 👋### Olá! Eu sou o Matheus Pereira 👋
+### Olá! Eu sou o Matheus Pereira 👋
 
 - 🔭 Aberto para propostas
 - 🌱 Estudando HTML, CSS, JS e seus frameworks
