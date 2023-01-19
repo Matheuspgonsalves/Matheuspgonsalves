@@ -1,11 +1,10 @@
 
   ## Olá! Eu sou o Matheus Pereira 👋
 
-  🔭 Open to work
-  🖥 Front-end Developer
-  📫 Belo Horizonte, MG - Brazil
+  - 🔭 Open to work
+  - 🖥 Front-end Developer
+  - 📫 Belo Horizonte, MG - Brazil
    <h1></h1>
-
 
 <h1 style="display: flex">
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
@@ -35,7 +34,7 @@
 
 <div style="display: flex">
  <img src="https://github-readme-stats.vercel.app/api?username=Matheuspgonsalves&show_icons=true&theme=merko" height="140rem">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
+ <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)>
             
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
