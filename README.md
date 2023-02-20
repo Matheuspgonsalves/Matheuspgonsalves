@@ -11,7 +11,7 @@
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  /*<img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />*/
 </h1>
 
 <div>
