@@ -2,8 +2,8 @@
 <div align="center">
  
 
-   🔭 Open to work
-   🖥 Front-end Developer
+   🔭 Open to work<br>
+   🖥 Front-end Developer<br>
    📫 Belo Horizonte, MG - Brazil
    <h1></h1>
 
