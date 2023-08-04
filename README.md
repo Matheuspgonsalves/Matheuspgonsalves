@@ -37,6 +37,7 @@
   <a href="https://github.com/Matheuspgonsalves">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheuspgonsalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheuspgonsalves&layout=compact&langs_count=7&theme=dracula"/>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giusfds&theme=tokyonight&hide_border=true&background=EB545400" /></p>
 </div>
 </div>
 
