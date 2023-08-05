@@ -1,4 +1,7 @@
-##     Olá! Eu sou o Matheus Pereira 👋     ##
+<p align="center">
+  <h2>Olá! Eu sou o Matheus Pereira 👋 </h2>
+</p>
+
 
 <div align="center">
  
