@@ -1,4 +1,4 @@
-<center>## Olá! Eu sou o Matheus Pereira 👋</center> 
+<div align="center">## Olá! Eu sou o Matheus Pereira 👋</div> 
 <div align="center">
  
 
