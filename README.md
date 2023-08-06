@@ -16,6 +16,7 @@
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
   <img height="40rem" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" />
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+  <img height="40rem" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   
 </h1>
