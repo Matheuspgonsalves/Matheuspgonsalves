@@ -6,7 +6,7 @@
  
 
    🔭 Open to work<br>
-   🖥 Front-end Developer<br>
+   🖥 Full-Stack Developer<br>
    📫 Belo Horizonte, MG - Brazil
    <h1></h1>
 
