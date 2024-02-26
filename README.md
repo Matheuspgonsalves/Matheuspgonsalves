@@ -16,7 +16,7 @@
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
+  <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/blob/master/icons/java/java-original.svg?short_path=051bf25" />
  
 
   
