@@ -15,6 +15,7 @@
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" />
   <img height="40rem" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
+  <img height="40rem" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" />
   <img height="40rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img height="40rem" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" />
 
