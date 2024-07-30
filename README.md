@@ -40,10 +40,11 @@
   </a>
 </div><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <a href="https://github.com/Matheuspgonsalves">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheuspgonsalves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspgonsalves&theme=tokyonight&hide_border=true&background=EB545400" /></p>
 </div>
 </div>
