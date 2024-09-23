@@ -67,7 +67,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Matheuspgonsalves/Matheuspgonsalves/output/snake.svg" alt="Snake animation" />
 
 ###
 
