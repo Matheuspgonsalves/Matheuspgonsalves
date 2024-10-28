@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning React, MySQL<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning React, Node, MySQL<br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
