@@ -77,21 +77,9 @@
 ###
 
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
-    alt="Matheuspgonsalves's Stats" 
-    height="150"
-/>
-<img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspgonsalves&theme=vue-dark&hide_border=true" 
-    alt="Matheuspgonsalves's Streak" 
-    height="150"
-/>
-<img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="Matheuspgonsalves's Top Languages"
-    height="150"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheuspgonsalves&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Matheuspgonsalves&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com/?user=Matheuspgonsalves&theme=bear&background=000&border=30A3DC&dates=FFF" height="150" alt="languages graph"  />
 </div>
 
 ###
