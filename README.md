@@ -76,8 +76,22 @@
 
 ###
 
-![Matheuspgonsalves's Stats](https://github-readme-stats.vercel.app/api?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![Matheuspgonsalves's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Matheuspgonsalves&theme=vue-dark&hide_border=true)
-![Matheuspgonsalves's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
+    alt="Matheuspgonsalves's Stats" 
+    height="150"
+/>
+<img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Matheuspgonsalves&theme=vue-dark&hide_border=true" 
+    alt="Matheuspgonsalves's Streak" 
+    height="150"
+/>
+<img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheuspgonsalves&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" 
+    alt="Matheuspgonsalves's Top Languages"
+    height="150"
+/>
+</div>
 
 ###
