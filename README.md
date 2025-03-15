@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matheus Pereira and <br>I'm a FullStack developer from Brasil.</p>
+<p align="left">My name is Matheus Pereira and <br>I'm a Back-End developer from Brasil.</p>
 
 ###
 
