@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning React, Node, MySQL<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Spring Boot, Docker, CI/CD<br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
@@ -26,7 +26,6 @@
 
 #### Libraries & Frameworks
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
