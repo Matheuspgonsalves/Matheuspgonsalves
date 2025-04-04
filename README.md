@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Spring Boot, Docker, NestJS<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Typescript, Spring Boot, Docker, NestJS, <br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
