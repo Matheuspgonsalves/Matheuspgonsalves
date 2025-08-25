@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Flutter<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Flutter, SQL<br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
