@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Matheus and <br>I'm a Fullstack developer from Brasil.</p>
+<p align="left">My name is Matheus and <br>I'm a Backend developer from Brasil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning Flutter, SQL<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning AWS, Docker, DSA.<br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
@@ -39,6 +39,8 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Tools
 
@@ -51,7 +53,7 @@
 
 ###
 
-<p align="left">English: Intermediary <br>Portuguese: Native</p>
+<p align="left">English: Intermediary B1 <br>Portuguese: Native</p>
 
 ###
 
