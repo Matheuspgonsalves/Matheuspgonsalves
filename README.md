@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning AWS, Docker, DSA.<br>📫 Belo Horizonte, MG - Brazil</p>
+<p align="left">👨‍💻 I'm currently open to work<br>📚 I'm currently learning AWS, Docker, DSA, CI/CD.<br>📫 Belo Horizonte, MG - Brazil</p>
 
 ###
 
