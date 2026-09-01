@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">English: Intermediary B1 <br>Portuguese: Native</p>
+<p align="left">English: Intermediary B2 <br>Portuguese: Native</p>
 
 ###
 
