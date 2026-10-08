@@ -2,7 +2,7 @@
 
 **Backend developer** building APIs, integrations and conversational applications with **Node.js and TypeScript** — and designing **AI agent workflows** that make that work faster and safer.
 
-📍 Rio de Janeiro, Brazil · 🎓 Computer Science @ Centro Universitário UNA (2027)
+📍 Rio de Janeiro, Brazil · 🎓 Computer Science @ Centro Universitário UNA 2027
 
 ---
 
